@@ -1,5 +1,7 @@
-<p align="center"> ![Header](./github-header-image.png) </p>
-
+![Header](./github-header-image.png)
+<p align="center">
+  <img src="/github-header-image.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohomed Ziard</h1>
 <h3 align="center">I am a UI/UX Designer & Developer</h3>
 
