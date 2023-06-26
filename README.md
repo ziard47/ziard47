@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Mohomed Ziard</h1>
 <h3 align="center">I am a UI/UX Designer & Developer</h3>
