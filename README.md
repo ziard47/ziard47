@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mohomed Ziard</h1>
 <h3 align="center">UI/UX Engineer & Game Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="border-radius: 10px;"> </img>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziard47&label=Profile%20views&color=0e75b6&style=flat" alt="ziard47" /> </p>
 
