@@ -4,6 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mohomed Ziard</h1>
 <h3 align="center">UI/UX Engineer & Game Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEQtQjNBckliQWhtRkJWRUM0Z1NaOUlGMG5KQXxBQ3Jtc0tub2ZocEQxcWtVSXRMRUdqNmVCRHR6Ri1vRUlnbC1GTExnMjBrWnlsSWgySG9QUGxEVTRmMWFJWFQtMHJSNXVsV0VpLW1BX0tlczdFYzdMRk94WnJmczFBSlJNWGtCa3kxQm1hWjBJVkZwQ2FZakFqbw&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziard47&label=Profile%20views&color=0e75b6&style=flat" alt="ziard47" /> </p>
 
